@@ -1,7 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    I'm not sure yet. But keeping the files online can ensure the file would not corrupt or missing.
+    Another benefit is that I can share the filese with others by internet and track the files easily.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
